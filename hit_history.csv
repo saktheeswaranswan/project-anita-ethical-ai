@@ -1,0 +1,977 @@
+Hit Number,Factor
+1,21. Social Stigma
+2,13. Resilience
+3,5. Health and Nutrition
+4,5. Health and Nutrition
+5,13. Resilience
+6,5. Health and Nutrition
+7,22. Rural vs. Urban Divide
+8,14. Mental Health
+9,22. Rural vs. Urban Divide
+10,14. Mental Health
+11,22. Rural vs. Urban Divide
+12,13. Resilience
+13,13. Resilience
+14,6. Living Conditions
+15,6. Living Conditions
+16,6. Living Conditions
+17,6. Living Conditions
+18,22. Rural vs. Urban Divide
+19,21. Social Stigma
+20,21. Social Stigma
+21,6. Living Conditions
+22,6. Living Conditions
+23,6. Living Conditions
+24,7. Availability of Educational Resources
+25,22. Rural vs. Urban Divide
+26,14. Mental Health
+27,14. Mental Health
+28,6. Living Conditions
+29,14. Mental Health
+30,14. Mental Health
+31,6. Living Conditions
+32,6. Living Conditions
+33,6. Living Conditions
+34,14. Mental Health
+35,14. Mental Health
+36,22. Rural vs. Urban Divide
+37,22. Rural vs. Urban Divide
+38,7. Availability of Educational Resources
+39,6. Living Conditions
+40,6. Living Conditions
+41,14. Mental Health
+42,5. Health and Nutrition
+43,5. Health and Nutrition
+44,5. Health and Nutrition
+45,6. Living Conditions
+46,6. Living Conditions
+47,7. Availability of Educational Resources
+48,7. Availability of Educational Resources
+49,7. Availability of Educational Resources
+50,23. Gender Discrimination
+51,23. Gender Discrimination
+52,7. Availability of Educational Resources
+53,23. Gender Discrimination
+54,15. Quality of Primary Education
+55,23. Gender Discrimination
+56,15. Quality of Primary Education
+57,15. Quality of Primary Education
+58,22. Rural vs. Urban Divide
+59,22. Rural vs. Urban Divide
+60,22. Rural vs. Urban Divide
+61,22. Rural vs. Urban Divide
+62,6. Living Conditions
+63,5. Health and Nutrition
+64,12. Self-Efficacy
+65,12. Self-Efficacy
+66,12. Self-Efficacy
+67,12. Self-Efficacy
+68,12. Self-Efficacy
+69,12. Self-Efficacy
+70,12. Self-Efficacy
+71,19. Caste-Based Discrimination
+72,19. Caste-Based Discrimination
+73,22. Rural vs. Urban Divide
+74,5. Health and Nutrition
+75,5. Health and Nutrition
+76,21. Social Stigma
+77,22. Rural vs. Urban Divide
+78,13. Resilience
+79,5. Health and Nutrition
+80,5. Health and Nutrition
+81,5. Health and Nutrition
+82,5. Health and Nutrition
+83,5. Health and Nutrition
+84,5. Health and Nutrition
+85,7. Availability of Educational Resources
+86,6. Living Conditions
+87,22. Rural vs. Urban Divide
+88,14. Mental Health
+89,21. Social Stigma
+90,5. Health and Nutrition
+91,21. Social Stigma
+92,21. Social Stigma
+93,21. Social Stigma
+94,22. Rural vs. Urban Divide
+95,14. Mental Health
+96,6. Living Conditions
+97,15. Quality of Primary Education
+98,8. Extracurricular Opportunities
+99,8. Extracurricular Opportunities
+100,15. Quality of Primary Education
+101,13. Resilience
+102,13. Resilience
+103,21. Social Stigma
+104,21. Social Stigma
+105,6. Living Conditions
+106,6. Living Conditions
+107,22. Rural vs. Urban Divide
+108,14. Mental Health
+109,6. Living Conditions
+110,6. Living Conditions
+111,6. Living Conditions
+112,22. Rural vs. Urban Divide
+113,14. Mental Health
+114,7. Availability of Educational Resources
+115,7. Availability of Educational Resources
+116,7. Availability of Educational Resources
+117,15. Quality of Primary Education
+118,7. Availability of Educational Resources
+119,7. Availability of Educational Resources
+120,7. Availability of Educational Resources
+121,23. Gender Discrimination
+122,6. Living Conditions
+123,6. Living Conditions
+124,22. Rural vs. Urban Divide
+125,14. Mental Health
+126,22. Rural vs. Urban Divide
+127,7. Availability of Educational Resources
+128,6. Living Conditions
+129,6. Living Conditions
+130,22. Rural vs. Urban Divide
+131,14. Mental Health
+132,5. Health and Nutrition
+133,13. Resilience
+134,13. Resilience
+135,21. Social Stigma
+136,21. Social Stigma
+137,21. Social Stigma
+138,6. Living Conditions
+139,15. Quality of Primary Education
+140,7. Availability of Educational Resources
+141,22. Rural vs. Urban Divide
+142,6. Living Conditions
+143,6. Living Conditions
+144,5. Health and Nutrition
+145,5. Health and Nutrition
+146,6. Living Conditions
+147,13. Resilience
+148,13. Resilience
+149,13. Resilience
+150,15. Quality of Primary Education
+151,15. Quality of Primary Education
+152,7. Availability of Educational Resources
+153,6. Living Conditions
+154,14. Mental Health
+155,14. Mental Health
+156,7. Availability of Educational Resources
+157,7. Availability of Educational Resources
+158,7. Availability of Educational Resources
+159,7. Availability of Educational Resources
+160,15. Quality of Primary Education
+161,7. Availability of Educational Resources
+162,15. Quality of Primary Education
+163,7. Availability of Educational Resources
+164,15. Quality of Primary Education
+165,22. Rural vs. Urban Divide
+166,22. Rural vs. Urban Divide
+167,6. Living Conditions
+168,6. Living Conditions
+169,6. Living Conditions
+170,6. Living Conditions
+171,22. Rural vs. Urban Divide
+172,14. Mental Health
+173,14. Mental Health
+174,22. Rural vs. Urban Divide
+175,15. Quality of Primary Education
+176,23. Gender Discrimination
+177,14. Mental Health
+178,22. Rural vs. Urban Divide
+179,22. Rural vs. Urban Divide
+180,6. Living Conditions
+181,6. Living Conditions
+182,14. Mental Health
+183,14. Mental Health
+184,22. Rural vs. Urban Divide
+185,14. Mental Health
+186,22. Rural vs. Urban Divide
+187,6. Living Conditions
+188,6. Living Conditions
+189,14. Mental Health
+190,14. Mental Health
+191,22. Rural vs. Urban Divide
+192,7. Availability of Educational Resources
+193,15. Quality of Primary Education
+194,7. Availability of Educational Resources
+195,7. Availability of Educational Resources
+196,14. Mental Health
+197,14. Mental Health
+198,23. Gender Discrimination
+199,7. Availability of Educational Resources
+200,23. Gender Discrimination
+201,24. Community Support
+202,16. Availability of Career Guidance
+203,24. Community Support
+204,16. Availability of Career Guidance
+205,24. Community Support
+206,15. Quality of Primary Education
+207,6. Living Conditions
+208,6. Living Conditions
+209,14. Mental Health
+210,6. Living Conditions
+211,14. Mental Health
+212,6. Living Conditions
+213,14. Mental Health
+214,6. Living Conditions
+215,14. Mental Health
+216,6. Living Conditions
+217,14. Mental Health
+218,6. Living Conditions
+219,14. Mental Health
+220,14. Mental Health
+221,22. Rural vs. Urban Divide
+222,22. Rural vs. Urban Divide
+223,22. Rural vs. Urban Divide
+224,6. Living Conditions
+225,15. Quality of Primary Education
+226,7. Availability of Educational Resources
+227,22. Rural vs. Urban Divide
+228,5. Health and Nutrition
+229,6. Living Conditions
+230,6. Living Conditions
+231,21. Social Stigma
+232,13. Resilience
+233,15. Quality of Primary Education
+234,7. Availability of Educational Resources
+235,7. Availability of Educational Resources
+236,15. Quality of Primary Education
+237,7. Availability of Educational Resources
+238,15. Quality of Primary Education
+239,7. Availability of Educational Resources
+240,15. Quality of Primary Education
+241,7. Availability of Educational Resources
+242,15. Quality of Primary Education
+243,15. Quality of Primary Education
+244,15. Quality of Primary Education
+245,15. Quality of Primary Education
+246,7. Availability of Educational Resources
+247,15. Quality of Primary Education
+248,15. Quality of Primary Education
+249,15. Quality of Primary Education
+250,7. Availability of Educational Resources
+251,15. Quality of Primary Education
+252,15. Quality of Primary Education
+253,21. Social Stigma
+254,5. Health and Nutrition
+255,5. Health and Nutrition
+256,4. Private Coaching and Tutoring
+257,4. Private Coaching and Tutoring
+258,12. Self-Efficacy
+259,12. Self-Efficacy
+260,20. Reservation Policies
+261,20. Reservation Policies
+262,20. Reservation Policies
+263,7. Availability of Educational Resources
+264,8. Extracurricular Opportunities
+265,23. Gender Discrimination
+266,23. Gender Discrimination
+267,22. Rural vs. Urban Divide
+268,7. Availability of Educational Resources
+269,6. Living Conditions
+270,6. Living Conditions
+271,7. Availability of Educational Resources
+272,6. Living Conditions
+273,6. Living Conditions
+274,6. Living Conditions
+275,14. Mental Health
+276,6. Living Conditions
+277,14. Mental Health
+278,7. Availability of Educational Resources
+279,7. Availability of Educational Resources
+280,7. Availability of Educational Resources
+281,15. Quality of Primary Education
+282,7. Availability of Educational Resources
+283,15. Quality of Primary Education
+284,15. Quality of Primary Education
+285,15. Quality of Primary Education
+286,6. Living Conditions
+287,6. Living Conditions
+288,14. Mental Health
+289,6. Living Conditions
+290,14. Mental Health
+291,6. Living Conditions
+292,14. Mental Health
+293,6. Living Conditions
+294,14. Mental Health
+295,15. Quality of Primary Education
+296,14. Mental Health
+297,6. Living Conditions
+298,14. Mental Health
+299,14. Mental Health
+300,7. Availability of Educational Resources
+301,15. Quality of Primary Education
+302,21. Social Stigma
+303,13. Resilience
+304,7. Availability of Educational Resources
+305,6. Living Conditions
+306,6. Living Conditions
+307,14. Mental Health
+308,6. Living Conditions
+309,5. Health and Nutrition
+310,6. Living Conditions
+311,6. Living Conditions
+312,6. Living Conditions
+313,22. Rural vs. Urban Divide
+314,6. Living Conditions
+315,6. Living Conditions
+316,7. Availability of Educational Resources
+317,6. Living Conditions
+318,6. Living Conditions
+319,14. Mental Health
+320,14. Mental Health
+321,22. Rural vs. Urban Divide
+322,22. Rural vs. Urban Divide
+323,14. Mental Health
+324,15. Quality of Primary Education
+325,6. Living Conditions
+326,21. Social Stigma
+327,4. Private Coaching and Tutoring
+328,21. Social Stigma
+329,6. Living Conditions
+330,6. Living Conditions
+331,22. Rural vs. Urban Divide
+332,14. Mental Health
+333,22. Rural vs. Urban Divide
+334,22. Rural vs. Urban Divide
+335,7. Availability of Educational Resources
+336,23. Gender Discrimination
+337,6. Living Conditions
+338,6. Living Conditions
+339,14. Mental Health
+340,6. Living Conditions
+341,6. Living Conditions
+342,22. Rural vs. Urban Divide
+343,22. Rural vs. Urban Divide
+344,22. Rural vs. Urban Divide
+345,22. Rural vs. Urban Divide
+346,6. Living Conditions
+347,7. Availability of Educational Resources
+348,6. Living Conditions
+349,13. Resilience
+350,13. Resilience
+351,13. Resilience
+352,7. Availability of Educational Resources
+353,8. Extracurricular Opportunities
+354,7. Availability of Educational Resources
+355,7. Availability of Educational Resources
+356,7. Availability of Educational Resources
+357,15. Quality of Primary Education
+358,14. Mental Health
+359,14. Mental Health
+360,22. Rural vs. Urban Divide
+361,6. Living Conditions
+362,22. Rural vs. Urban Divide
+363,14. Mental Health
+364,22. Rural vs. Urban Divide
+365,6. Living Conditions
+366,7. Availability of Educational Resources
+367,6. Living Conditions
+368,5. Health and Nutrition
+369,6. Living Conditions
+370,6. Living Conditions
+371,22. Rural vs. Urban Divide
+372,14. Mental Health
+373,22. Rural vs. Urban Divide
+374,14. Mental Health
+375,22. Rural vs. Urban Divide
+376,22. Rural vs. Urban Divide
+377,7. Availability of Educational Resources
+378,6. Living Conditions
+379,6. Living Conditions
+380,14. Mental Health
+381,14. Mental Health
+382,21. Social Stigma
+383,20. Reservation Policies
+384,20. Reservation Policies
+385,19. Caste-Based Discrimination
+386,7. Availability of Educational Resources
+387,22. Rural vs. Urban Divide
+388,14. Mental Health
+389,14. Mental Health
+390,6. Living Conditions
+391,14. Mental Health
+392,14. Mental Health
+393,5. Health and Nutrition
+394,5. Health and Nutrition
+395,7. Availability of Educational Resources
+396,7. Availability of Educational Resources
+397,7. Availability of Educational Resources
+398,15. Quality of Primary Education
+399,7. Availability of Educational Resources
+400,14. Mental Health
+401,14. Mental Health
+402,22. Rural vs. Urban Divide
+403,6. Living Conditions
+404,15. Quality of Primary Education
+405,7. Availability of Educational Resources
+406,23. Gender Discrimination
+407,7. Availability of Educational Resources
+408,7. Availability of Educational Resources
+409,7. Availability of Educational Resources
+410,7. Availability of Educational Resources
+411,15. Quality of Primary Education
+412,7. Availability of Educational Resources
+413,7. Availability of Educational Resources
+414,21. Social Stigma
+415,5. Health and Nutrition
+416,21. Social Stigma
+417,21. Social Stigma
+418,21. Social Stigma
+419,4. Private Coaching and Tutoring
+420,4. Private Coaching and Tutoring
+421,4. Private Coaching and Tutoring
+422,6. Living Conditions
+423,4. Private Coaching and Tutoring
+424,4. Private Coaching and Tutoring
+425,12. Self-Efficacy
+426,12. Self-Efficacy
+427,12. Self-Efficacy
+428,20. Reservation Policies
+429,20. Reservation Policies
+430,6. Living Conditions
+431,7. Availability of Educational Resources
+432,22. Rural vs. Urban Divide
+433,5. Health and Nutrition
+434,5. Health and Nutrition
+435,5. Health and Nutrition
+436,5. Health and Nutrition
+437,12. Self-Efficacy
+438,12. Self-Efficacy
+439,19. Caste-Based Discrimination
+440,6. Living Conditions
+441,6. Living Conditions
+442,22. Rural vs. Urban Divide
+443,14. Mental Health
+444,14. Mental Health
+445,6. Living Conditions
+446,22. Rural vs. Urban Divide
+447,22. Rural vs. Urban Divide
+448,5. Health and Nutrition
+449,5. Health and Nutrition
+450,5. Health and Nutrition
+451,5. Health and Nutrition
+452,5. Health and Nutrition
+453,21. Social Stigma
+454,5. Health and Nutrition
+455,13. Resilience
+456,4. Private Coaching and Tutoring
+457,4. Private Coaching and Tutoring
+458,4. Private Coaching and Tutoring
+459,4. Private Coaching and Tutoring
+460,4. Private Coaching and Tutoring
+461,4. Private Coaching and Tutoring
+462,4. Private Coaching and Tutoring
+463,4. Private Coaching and Tutoring
+464,12. Self-Efficacy
+465,12. Self-Efficacy
+466,12. Self-Efficacy
+467,19. Caste-Based Discrimination
+468,20. Reservation Policies
+469,20. Reservation Policies
+470,19. Caste-Based Discrimination
+471,7. Availability of Educational Resources
+472,6. Living Conditions
+473,6. Living Conditions
+474,22. Rural vs. Urban Divide
+475,6. Living Conditions
+476,6. Living Conditions
+477,6. Living Conditions
+478,6. Living Conditions
+479,6. Living Conditions
+480,22. Rural vs. Urban Divide
+481,14. Mental Health
+482,22. Rural vs. Urban Divide
+483,22. Rural vs. Urban Divide
+484,5. Health and Nutrition
+485,5. Health and Nutrition
+486,5. Health and Nutrition
+487,4. Private Coaching and Tutoring
+488,15. Quality of Primary Education
+489,5. Health and Nutrition
+490,5. Health and Nutrition
+491,5. Health and Nutrition
+492,20. Reservation Policies
+493,12. Self-Efficacy
+494,12. Self-Efficacy
+495,19. Caste-Based Discrimination
+496,11. Motivation and Aspirations
+497,11. Motivation and Aspirations
+498,11. Motivation and Aspirations
+499,11. Motivation and Aspirations
+500,11. Motivation and Aspirations
+501,11. Motivation and Aspirations
+502,18. Scholarships and Financial Aid
+503,18. Scholarships and Financial Aid
+504,18. Scholarships and Financial Aid
+505,18. Scholarships and Financial Aid
+506,18. Scholarships and Financial Aid
+507,18. Scholarships and Financial Aid
+508,18. Scholarships and Financial Aid
+509,18. Scholarships and Financial Aid
+510,7. Availability of Educational Resources
+511,24. Community Support
+512,24. Community Support
+513,24. Community Support
+514,16. Availability of Career Guidance
+515,22. Rural vs. Urban Divide
+516,14. Mental Health
+517,14. Mental Health
+518,6. Living Conditions
+519,14. Mental Health
+520,14. Mental Health
+521,22. Rural vs. Urban Divide
+522,6. Living Conditions
+523,6. Living Conditions
+524,6. Living Conditions
+525,7. Availability of Educational Resources
+526,14. Mental Health
+527,6. Living Conditions
+528,14. Mental Health
+529,6. Living Conditions
+530,14. Mental Health
+531,6. Living Conditions
+532,14. Mental Health
+533,6. Living Conditions
+534,6. Living Conditions
+535,22. Rural vs. Urban Divide
+536,14. Mental Health
+537,7. Availability of Educational Resources
+538,5. Health and Nutrition
+539,5. Health and Nutrition
+540,13. Resilience
+541,4. Private Coaching and Tutoring
+542,4. Private Coaching and Tutoring
+543,12. Self-Efficacy
+544,19. Caste-Based Discrimination
+545,12. Self-Efficacy
+546,19. Caste-Based Discrimination
+547,19. Caste-Based Discrimination
+548,15. Quality of Primary Education
+549,6. Living Conditions
+550,6. Living Conditions
+551,14. Mental Health
+552,6. Living Conditions
+553,14. Mental Health
+554,6. Living Conditions
+555,14. Mental Health
+556,6. Living Conditions
+557,14. Mental Health
+558,14. Mental Health
+559,15. Quality of Primary Education
+560,15. Quality of Primary Education
+561,6. Living Conditions
+562,7. Availability of Educational Resources
+563,6. Living Conditions
+564,6. Living Conditions
+565,6. Living Conditions
+566,14. Mental Health
+567,14. Mental Health
+568,6. Living Conditions
+569,6. Living Conditions
+570,6. Living Conditions
+571,15. Quality of Primary Education
+572,7. Availability of Educational Resources
+573,23. Gender Discrimination
+574,8. Extracurricular Opportunities
+575,24. Community Support
+576,16. Availability of Career Guidance
+577,8. Extracurricular Opportunities
+578,8. Extracurricular Opportunities
+579,8. Extracurricular Opportunities
+580,16. Availability of Career Guidance
+581,8. Extracurricular Opportunities
+582,7. Availability of Educational Resources
+583,22. Rural vs. Urban Divide
+584,14. Mental Health
+585,22. Rural vs. Urban Divide
+586,15. Quality of Primary Education
+587,23. Gender Discrimination
+588,23. Gender Discrimination
+589,23. Gender Discrimination
+590,23. Gender Discrimination
+591,23. Gender Discrimination
+592,23. Gender Discrimination
+593,23. Gender Discrimination
+594,22. Rural vs. Urban Divide
+595,13. Resilience
+596,6. Living Conditions
+597,6. Living Conditions
+598,6. Living Conditions
+599,7. Availability of Educational Resources
+600,7. Availability of Educational Resources
+601,15. Quality of Primary Education
+602,7. Availability of Educational Resources
+603,15. Quality of Primary Education
+604,7. Availability of Educational Resources
+605,23. Gender Discrimination
+606,22. Rural vs. Urban Divide
+607,6. Living Conditions
+608,6. Living Conditions
+609,13. Resilience
+610,13. Resilience
+611,7. Availability of Educational Resources
+612,22. Rural vs. Urban Divide
+613,22. Rural vs. Urban Divide
+614,5. Health and Nutrition
+615,5. Health and Nutrition
+616,6. Living Conditions
+617,6. Living Conditions
+618,6. Living Conditions
+619,6. Living Conditions
+620,22. Rural vs. Urban Divide
+621,8. Extracurricular Opportunities
+622,6. Living Conditions
+623,6. Living Conditions
+624,22. Rural vs. Urban Divide
+625,14. Mental Health
+626,5. Health and Nutrition
+627,21. Social Stigma
+628,5. Health and Nutrition
+629,21. Social Stigma
+630,13. Resilience
+631,21. Social Stigma
+632,21. Social Stigma
+633,21. Social Stigma
+634,22. Rural vs. Urban Divide
+635,14. Mental Health
+636,22. Rural vs. Urban Divide
+637,21. Social Stigma
+638,5. Health and Nutrition
+639,5. Health and Nutrition
+640,6. Living Conditions
+641,6. Living Conditions
+642,6. Living Conditions
+643,14. Mental Health
+644,6. Living Conditions
+645,14. Mental Health
+646,14. Mental Health
+647,14. Mental Health
+648,7. Availability of Educational Resources
+649,7. Availability of Educational Resources
+650,23. Gender Discrimination
+651,15. Quality of Primary Education
+652,23. Gender Discrimination
+653,6. Living Conditions
+654,6. Living Conditions
+655,6. Living Conditions
+656,7. Availability of Educational Resources
+657,7. Availability of Educational Resources
+658,23. Gender Discrimination
+659,23. Gender Discrimination
+660,23. Gender Discrimination
+661,23. Gender Discrimination
+662,23. Gender Discrimination
+663,23. Gender Discrimination
+664,23. Gender Discrimination
+665,23. Gender Discrimination
+666,23. Gender Discrimination
+667,23. Gender Discrimination
+668,5. Health and Nutrition
+669,5. Health and Nutrition
+670,5. Health and Nutrition
+671,5. Health and Nutrition
+672,13. Resilience
+673,5. Health and Nutrition
+674,13. Resilience
+675,13. Resilience
+676,21. Social Stigma
+677,13. Resilience
+678,22. Rural vs. Urban Divide
+679,6. Living Conditions
+680,6. Living Conditions
+681,5. Health and Nutrition
+682,4. Private Coaching and Tutoring
+683,7. Availability of Educational Resources
+684,6. Living Conditions
+685,6. Living Conditions
+686,14. Mental Health
+687,6. Living Conditions
+688,14. Mental Health
+689,14. Mental Health
+690,22. Rural vs. Urban Divide
+691,6. Living Conditions
+692,5. Health and Nutrition
+693,5. Health and Nutrition
+694,21. Social Stigma
+695,13. Resilience
+696,13. Resilience
+697,20. Reservation Policies
+698,7. Availability of Educational Resources
+699,7. Availability of Educational Resources
+700,22. Rural vs. Urban Divide
+701,14. Mental Health
+702,22. Rural vs. Urban Divide
+703,14. Mental Health
+704,22. Rural vs. Urban Divide
+705,6. Living Conditions
+706,21. Social Stigma
+707,13. Resilience
+708,5. Health and Nutrition
+709,5. Health and Nutrition
+710,21. Social Stigma
+711,13. Resilience
+712,21. Social Stigma
+713,21. Social Stigma
+714,7. Availability of Educational Resources
+715,7. Availability of Educational Resources
+716,5. Health and Nutrition
+717,5. Health and Nutrition
+718,5. Health and Nutrition
+719,5. Health and Nutrition
+720,13. Resilience
+721,13. Resilience
+722,7. Availability of Educational Resources
+723,13. Resilience
+724,13. Resilience
+725,6. Living Conditions
+726,7. Availability of Educational Resources
+727,15. Quality of Primary Education
+728,7. Availability of Educational Resources
+729,23. Gender Discrimination
+730,6. Living Conditions
+731,15. Quality of Primary Education
+732,15. Quality of Primary Education
+733,7. Availability of Educational Resources
+734,6. Living Conditions
+735,6. Living Conditions
+736,6. Living Conditions
+737,6. Living Conditions
+738,6. Living Conditions
+739,6. Living Conditions
+740,15. Quality of Primary Education
+741,14. Mental Health
+742,6. Living Conditions
+743,6. Living Conditions
+744,22. Rural vs. Urban Divide
+745,22. Rural vs. Urban Divide
+746,20. Reservation Policies
+747,20. Reservation Policies
+748,15. Quality of Primary Education
+749,7. Availability of Educational Resources
+750,6. Living Conditions
+751,6. Living Conditions
+752,6. Living Conditions
+753,6. Living Conditions
+754,14. Mental Health
+755,6. Living Conditions
+756,14. Mental Health
+757,6. Living Conditions
+758,14. Mental Health
+759,6. Living Conditions
+760,14. Mental Health
+761,6. Living Conditions
+762,14. Mental Health
+763,14. Mental Health
+764,14. Mental Health
+765,22. Rural vs. Urban Divide
+766,22. Rural vs. Urban Divide
+767,14. Mental Health
+768,14. Mental Health
+769,6. Living Conditions
+770,14. Mental Health
+771,6. Living Conditions
+772,14. Mental Health
+773,6. Living Conditions
+774,14. Mental Health
+775,6. Living Conditions
+776,14. Mental Health
+777,14. Mental Health
+778,6. Living Conditions
+779,14. Mental Health
+780,6. Living Conditions
+781,14. Mental Health
+782,6. Living Conditions
+783,14. Mental Health
+784,14. Mental Health
+785,6. Living Conditions
+786,14. Mental Health
+787,6. Living Conditions
+788,14. Mental Health
+789,6. Living Conditions
+790,14. Mental Health
+791,6. Living Conditions
+792,14. Mental Health
+793,14. Mental Health
+794,6. Living Conditions
+795,14. Mental Health
+796,6. Living Conditions
+797,14. Mental Health
+798,14. Mental Health
+799,14. Mental Health
+800,14. Mental Health
+801,15. Quality of Primary Education
+802,14. Mental Health
+803,6. Living Conditions
+804,14. Mental Health
+805,6. Living Conditions
+806,14. Mental Health
+807,6. Living Conditions
+808,14. Mental Health
+809,14. Mental Health
+810,14. Mental Health
+811,22. Rural vs. Urban Divide
+812,6. Living Conditions
+813,14. Mental Health
+814,6. Living Conditions
+815,6. Living Conditions
+816,7. Availability of Educational Resources
+817,22. Rural vs. Urban Divide
+818,6. Living Conditions
+819,6. Living Conditions
+820,14. Mental Health
+821,6. Living Conditions
+822,14. Mental Health
+823,14. Mental Health
+824,6. Living Conditions
+825,14. Mental Health
+826,6. Living Conditions
+827,14. Mental Health
+828,22. Rural vs. Urban Divide
+829,6. Living Conditions
+830,6. Living Conditions
+831,15. Quality of Primary Education
+832,7. Availability of Educational Resources
+833,7. Availability of Educational Resources
+834,23. Gender Discrimination
+835,7. Availability of Educational Resources
+836,5. Health and Nutrition
+837,22. Rural vs. Urban Divide
+838,14. Mental Health
+839,14. Mental Health
+840,6. Living Conditions
+841,15. Quality of Primary Education
+842,7. Availability of Educational Resources
+843,6. Living Conditions
+844,6. Living Conditions
+845,22. Rural vs. Urban Divide
+846,22. Rural vs. Urban Divide
+847,5. Health and Nutrition
+848,5. Health and Nutrition
+849,5. Health and Nutrition
+850,13. Resilience
+851,5. Health and Nutrition
+852,5. Health and Nutrition
+853,5. Health and Nutrition
+854,21. Social Stigma
+855,13. Resilience
+856,7. Availability of Educational Resources
+857,13. Resilience
+858,12. Self-Efficacy
+859,4. Private Coaching and Tutoring
+860,5. Health and Nutrition
+861,5. Health and Nutrition
+862,5. Health and Nutrition
+863,21. Social Stigma
+864,21. Social Stigma
+865,5. Health and Nutrition
+866,5. Health and Nutrition
+867,6. Living Conditions
+868,6. Living Conditions
+869,6. Living Conditions
+870,14. Mental Health
+871,14. Mental Health
+872,7. Availability of Educational Resources
+873,13. Resilience
+874,13. Resilience
+875,7. Availability of Educational Resources
+876,6. Living Conditions
+877,6. Living Conditions
+878,15. Quality of Primary Education
+879,15. Quality of Primary Education
+880,15. Quality of Primary Education
+881,15. Quality of Primary Education
+882,7. Availability of Educational Resources
+883,15. Quality of Primary Education
+884,7. Availability of Educational Resources
+885,15. Quality of Primary Education
+886,15. Quality of Primary Education
+887,6. Living Conditions
+888,6. Living Conditions
+889,6. Living Conditions
+890,6. Living Conditions
+891,6. Living Conditions
+892,7. Availability of Educational Resources
+893,13. Resilience
+894,19. Caste-Based Discrimination
+895,19. Caste-Based Discrimination
+896,19. Caste-Based Discrimination
+897,19. Caste-Based Discrimination
+898,19. Caste-Based Discrimination
+899,6. Living Conditions
+900,6. Living Conditions
+901,7. Availability of Educational Resources
+902,7. Availability of Educational Resources
+903,22. Rural vs. Urban Divide
+904,6. Living Conditions
+905,6. Living Conditions
+906,6. Living Conditions
+907,7. Availability of Educational Resources
+908,6. Living Conditions
+909,7. Availability of Educational Resources
+910,13. Resilience
+911,13. Resilience
+912,13. Resilience
+913,5. Health and Nutrition
+914,6. Living Conditions
+915,14. Mental Health
+916,21. Social Stigma
+917,13. Resilience
+918,21. Social Stigma
+919,7. Availability of Educational Resources
+920,6. Living Conditions
+921,6. Living Conditions
+922,6. Living Conditions
+923,15. Quality of Primary Education
+924,7. Availability of Educational Resources
+925,15. Quality of Primary Education
+926,20. Reservation Policies
+927,20. Reservation Policies
+928,20. Reservation Policies
+929,20. Reservation Policies
+930,20. Reservation Policies
+931,20. Reservation Policies
+932,7. Availability of Educational Resources
+933,22. Rural vs. Urban Divide
+934,14. Mental Health
+935,22. Rural vs. Urban Divide
+936,14. Mental Health
+937,22. Rural vs. Urban Divide
+938,15. Quality of Primary Education
+939,7. Availability of Educational Resources
+940,7. Availability of Educational Resources
+941,15. Quality of Primary Education
+942,15. Quality of Primary Education
+943,7. Availability of Educational Resources
+944,21. Social Stigma
+945,5. Health and Nutrition
+946,5. Health and Nutrition
+947,4. Private Coaching and Tutoring
+948,7. Availability of Educational Resources
+949,6. Living Conditions
+950,5. Health and Nutrition
+951,12. Self-Efficacy
+952,12. Self-Efficacy
+953,20. Reservation Policies
+954,20. Reservation Policies
+955,6. Living Conditions
+956,6. Living Conditions
+957,5. Health and Nutrition
+958,5. Health and Nutrition
+959,5. Health and Nutrition
+960,5. Health and Nutrition
+961,5. Health and Nutrition
+962,13. Resilience
+963,21. Social Stigma
+964,21. Social Stigma
+965,15. Quality of Primary Education
+966,6. Living Conditions
+967,6. Living Conditions
+968,14. Mental Health
+969,14. Mental Health
+970,22. Rural vs. Urban Divide
+971,22. Rural vs. Urban Divide
+972,6. Living Conditions
+973,6. Living Conditions
+974,21. Social Stigma
+975,21. Social Stigma
+976,21. Social Stigma
